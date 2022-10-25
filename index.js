@@ -19,3 +19,6 @@ app.get("/data/:id", (req, res) => {
   const singledata = data.filter((n) => n.id == id);
   res.send(singledata);
 });
+
+
+module.exports = app;
