@@ -1,56 +1,50 @@
 [
   {
     "id": 1,
-    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-    "price": 109.95,
-    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-    "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+    "title": "NodeJs",
+    "heading": "Node js for web development backend server",
+    "description": "Nodejs (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications. Node.js is intended to run on a dedicated HTTP server and to employ a single thread with one process at a time. Node.js applications are event-based and run asynchronously. Code built on the Node platform does not follow the traditional model of receive, process, send, wait, receive. Instead, Node processes incoming requests in a constant event stack and sends small requests one after the other without waiting for responses.",
+    "image": "https://img.freepik.com/free-vector/coding-concept-illustration_114360-4348.jpg?w=740&t=st=1666840838~exp=1666841438~hmac=cd581607e7ca1819fe70bb7bd0f02201173ed8a677463f6164cbf83e61929281",
     "rating": { "rate": 3.9, "count": 120 }
   },
   {
     "id": 2,
-    "title": "Mens Casual Premium Slim Fit T-Shirts ",
-    "price": 22.3,
-    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-    "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+    "title": "Django",
+    "heading": "Django is python web framework to make backend ",
+    "description": "Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It is free and open source, has a thriving and active community, great documentation, and many options for free and paid-for support. Django helps you write software that is: Django follows the \"Batteries included\" philosophy and provides almost everything developers might want to do \"out of the box\". Because everything you need is part of the one \"product\", it all works seamlessly together, follows consistent design principles, and has extensive",
+    "image": "https://img.freepik.com/free-vector/software-developers-working-script-coding-engineer-character-programming-php-python-javascript-other-languages_90220-243.jpg?w=740&t=st=1666840786~exp=1666841386~hmac=8f5906f6b15ac34782160063fd868dbb6d455377f3e255b2a2b4b88235b9b0df",
     "rating": { "rate": 4.1, "count": 259 }
   },
   {
     "id": 3,
-    "title": "Mens Cotton Jacket",
-    "price": 55.99,
-    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-    "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "title": "PHP",
+    "heading": "Php will teach you to make a server",
+    "description": "PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages. PHP scripts can only be interpreted on a server that has PHP installed. The client computers accessing the PHP scripts require a web browser only. A PHP file contains PHP tags and ends with the extension “.php”.",
+    "image": "https://img.freepik.com/free-vector/programmer-working-with-php_52683-22998.jpg?w=740&t=st=1666840448~exp=1666841048~hmac=1843cda1ffdc87d83b3c66590057dfad29b99c73bfe15559f6e547bfef9e5cf9",
     "rating": { "rate": 4.7, "count": 500 }
   },
   {
     "id": 4,
-    "title": "Mens Casual Slim Fit",
-    "price": 15.99,
-    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-    "category": "men's clothing",
-    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "title": "Artificial Intelligence",
+    "heading": "AI will teach you to make smart world!",
+    "description": "artificial intelligence (AI), the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings. The term is frequently applied to the project of developing systems endowed with the intellectual processes characteristic of humans, such as the ability to reason, discover meaning, generalize, or learn from past experience. Since the development of the digital computer in the 1940s, it has been demonstrated that computers can be programmed to carry out very complex tasks—as, for example, discovering proofs for mathematical theorems or playing chess—with great proficiency. Still, despite continuing advances in computer processing speed and memory capacity, there are as yet no programs that can match human flexibility over wider domains or in tasks requiring much everyday knowledge. ",
+    "image": "https://img.freepik.com/free-vector/robots-animals-futuristic-technology-cyborgs-panther-lion-fox-penguin-cheetah-cartoon-robotics-cyber-characters-artificial-intelligence-mechanical-electronic-personages-isolated-vector-set_107791-9806.jpg?w=900&t=st=1666840229~exp=1666840829~hmac=9d8034ef9105294a74c5564dd8c8bc28f09cb462d9bc021e48e0763681584c0a",
     "rating": { "rate": 2.1, "count": 430 }
   },
   {
     "id": 5,
-    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-    "price": 695,
-    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-    "category": "jewelery",
-    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "title": "Javascript",
+    "heading": "Learn Javascript for web development",
+    "description": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles. JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.",
+    "image": "https://img.freepik.com/free-vector/javascript-abstract-concept-illustration_335657-3702.jpg?w=740&t=st=1666840084~exp=1666840684~hmac=f08342aaf697e0ccf010329403021ffc30f121ccb2eb82a5b4c898d4d27b1f67",
     "rating": { "rate": 4.6, "count": 400 }
   },
   {
     "id": 6,
-    "title": "Solid Gold Petite Micropave ",
-    "price": 168,
-    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-    "category": "jewelery",
-    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+    "title": "Python",
+    "heading": "Learn Python for mechine learning",
+    "description": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn’t specialized for any specific problems. This versatility, along with its beginner-friendliness, has made it one of the most-used programming languages today. A survey conducted by industry analyst firm RedMonk found that it was the second-most popular programming language among developers in 2021",
+    "image": "https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-250.jpg?w=740&t=st=1666839822~exp=1666840422~hmac=9055978abc9cd895a513ee4e816703ee548e108782b9f546ce850fc8c431dc20",
     "rating": { "rate": 3.9, "count": 70 }
   }
 ]
