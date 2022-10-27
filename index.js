@@ -10,6 +10,9 @@ const data = require("./data/data.json");
 app.listen(Port, () => {
   console.log("server is running", Port);
 });
+app.get("/", (req, res) => {
+  res.send("Got your data");
+});
 
 app.get("/data", (req, res) => {
   res.send(data);
